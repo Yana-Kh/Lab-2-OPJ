@@ -29,6 +29,13 @@ int main()
     char flag = '2';
     int globus = 90;
     float gol = 1.3;
+    while (gol < 3)
+    {
 
+        if (b == 66)
+            break;
+        cout << "Enter gol >= 10: ";
+        cin >> gol;
+    }
 
 }
