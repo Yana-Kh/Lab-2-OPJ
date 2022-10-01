@@ -26,9 +26,9 @@ int main()
     std::cout << "Hello World!\n";
     cout << "5 + 9 = " + 5 + 9;
 
-
-
-
+    char flag = '2';
+    int globus = 90;
+    float gol = 1.3;
 
 
 }
