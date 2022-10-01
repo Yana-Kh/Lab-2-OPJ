@@ -15,5 +15,13 @@ int main()
     else
         cout << "ERROR";
 
+    int b =0;
+    while (b >= 10)
+    {
+        cout << "Enter b >= 10: ";
+        cin >> b;
+    }
+
+
 
 }
