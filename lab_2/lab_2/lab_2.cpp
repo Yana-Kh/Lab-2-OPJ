@@ -10,6 +10,9 @@ int main()
     int b = 0;
     while (b >= 10)
     {
+
+        if (b == 66)
+            break;
         cout << "Enter b >= 10: ";
         cin >> b;
     }
